@@ -1,0 +1,15 @@
+# 🔧 requirements_base.txt (use this for all tasks)
+transformers
+diffusers
+datasets
+peft
+accelerate
+xformers
+torch
+torchvision
+bitsandbytes
+Pillow
+tqdm
+openai
+open-clip-torch
+requests
